@@ -1,2 +1,4 @@
-# LabsPython
-Laboratory works for Faculty of Mathematics and Physics
+# Лабораторные работы по Python для ФМФ
+Лабораторные работы в наличии:
+-Лабораторная работа 1
+-Лабораторная работа 2
